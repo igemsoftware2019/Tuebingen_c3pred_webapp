@@ -6,7 +6,7 @@ C3Pred - Web App
 Software project of the iGEM Team Tübingen 2019
 
 `Our Wiki
-<https://2019.igem.org/Team:Tuebingen/Software/>`_
+<https://2019.igem.org/Team:Tuebingen/Software>`_
 
 
 C3Pred is an easy-to-use software tool, to predict the transport effectivity of cell-penetrating peptides (CPP).  CPPs are short 4-30 amino acids long peptides, which possess the ability to transport different cargo over the cell membrane. These cargos include proteins, nanobodies, DNA molecules, and small molecule drugs. In recent years, numerous promising clinical and pre-clinical trials have been launched, with CPPs as a carrier for pharmacologically active small molecules. C3Pred allows scientists to make design choices for their CPP-utilizing system based on quantitative transport activity scores.
